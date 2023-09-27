@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=BrianPizz&theme=radical&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrianPizz&theme=radical&card_width=1000)](https://git.io/streak-stats)
 
 <!--
 **BrianPizz/BrianPizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
