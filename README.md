@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif)")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif")
 
 - 🔭 I’m currently working on [E-commerce Back End](https://github.com/BrianPizz/e-commerce-back-end)
 
