@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [E-commerce Back End](https://github.com/BrianPizz/e-commerce-back-end)
+- 🔭 I’m currently working on [A Tech Blog]([https://github.com/BrianPizz/e-commerce-back-end](https://github.com/BrianPizz/tech-blog))
 
 - 🌱 I’m currently learning **Handlebars.js**
 
