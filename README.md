@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [A Tech Blog](https://github.com/BrianPizz/tech-blog)
+- 🔭 I’m currently working on [Regex Tutorial](https://github.com/BrianPizz/regex-tutorial)
 
-- 🌱 I’m currently learning **Handlebars.js**
+- 🌱 I’m currently learning **NoSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
