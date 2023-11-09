@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [Social Network API](https://github.com/BrianPizz/social-network-api)
+- 🔭 I’m currently working on [React Portfolio](https://github.com/BrianPizz/react-portfolio)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
