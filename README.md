@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [React Portfolio](https://github.com/BrianPizz/react-portfolio)
+- 🔭 I’m currently working on [Book Search Engine](https://github.com/BrianPizz/book-search-engine)
 
 - 🌱 I’m currently learning **MERN**
 
