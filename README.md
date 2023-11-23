@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [EmployEase](https://github.com/jhuber1155/EmployEase)
+- 🔭 I’m currently working on [EmployEase](https://github.com/BrianPizz/EmployEase)
 
 - 🌱 I’m currently learning **MERN**
 
