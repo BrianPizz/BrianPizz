@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on an [e commerce site](https://github.com/BrianPizz/sound-harbor)
+- 🔭 I’m currently working on a [Social Media App](https://github.com/BrianPizz/echo)
 
 - 🌱 I’m currently learning **MERN**
 
