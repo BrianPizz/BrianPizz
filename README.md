@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Social Media App](https://github.com/BrianPizz/echo)
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
