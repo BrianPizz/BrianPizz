@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianpizz" alt="brianpizz" /></a> </p>
-
 - 🔭 I’m currently working on [A Social Media App (Echo)](https://github.com/BrianPizz/echo)
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://main--gleeful-sfogliatella-c975e5.netlify.app/](https://main--gleeful-sfogliatella-c975e5.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://main--gleeful-sfogliatella-c975e5.netlify.app/)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1k0wUc5SjCnY_s2sTz5fEcQCORPpXAOdJB5ZCIMFZ8ME/edit?hl=en#heading=h.jl50kwavsrpr](https://docs.google.com/document/d/1k0wUc5SjCnY_s2sTz5fEcQCORPpXAOdJB5ZCIMFZ8ME/edit?hl=en#heading=h.jl50kwavsrpr)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1k0wUc5SjCnY_s2sTz5fEcQCORPpXAOdJB5ZCIMFZ8ME/edit?hl=en#heading=h.jl50kwavsrpr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
