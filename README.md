@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://main--gleeful-sfogliatella-c975e5.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://brian-pizzimenti.netlify.app/)
 
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1k0wUc5SjCnY_s2sTz5fEcQCORPpXAOdJB5ZCIMFZ8ME/edit?hl=en#heading=h.jl50kwavsrpr)
 
