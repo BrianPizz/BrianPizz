@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [A Social Media App (Echo)](https://github.com/BrianPizz/echo)
+- 🔭 I’m currently working on [...]()
 
 - 🌱 I’m currently learning **Python**
 
