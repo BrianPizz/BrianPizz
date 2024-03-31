@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on a [Youtube Downloader](https://github.com/BrianPizz/youtube-downloader)
 
 - 🌱 I’m currently learning **Python**
 
