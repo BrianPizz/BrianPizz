@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1k0wUc5SjCnY_s2sTz5fEcQCORPpXAOdJB5ZCIMFZ8ME/edit?hl=en#heading=h.jl50kwavsrpr)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/brian-pizzimenti-b1a53929a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brian-pizzimenti-b1a53929a/" height="30" width="40" /></a>
 </p>
