@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate full-stack developer from Los Angeles</h3>
+<h3 align="center">A passionate full-stack developer from Orlando</h3>
 
-- 🔭 I’m currently working on a [Youtube Downloader](https://github.com/BrianPizz/youtube-downloader)
+- 🔭 I’m currently working on a [Time Tracker](https://github.com/BrianPizz/time-flow)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://brian-pizzimenti.netlify.app/)
 
