@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Orlando</h3>
 
-- 🔭 I’m currently working on a [Time Tracker](https://github.com/BrianPizz/time-flow)
+- 🔭 I’m currently working on a [AI Book Recommender](https://github.com/BrianPizz/book-recommender)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://brian-pizzimenti.netlify.app/)
 
