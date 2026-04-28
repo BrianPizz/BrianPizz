@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://brianpizzimenti.vercel.app/)
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1k0wUc5SjCnY_s2sTz5fEcQCORPpXAOdJB5ZCIMFZ8ME/edit?hl=en#heading=h.jl50kwavsrpr)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1sQcz70BkocR05q2aCteBu15XDsDw2YRTIwGkPCKsGKI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
