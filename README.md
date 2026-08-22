@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate full-stack developer from Orlando</h3>
 
-- 🔭 I’m currently working on a [AI Book Recommender](https://github.com/BrianPizz/book-recommender)
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on a [student engagement tracker for teachers](https://github.com/BrianPizz/heat-seat)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://brianpizzimenti.vercel.app/)
 
